@@ -1,0 +1,1 @@
+CAMP_CHEST_SUBSTRING = "PlayerCampChest"

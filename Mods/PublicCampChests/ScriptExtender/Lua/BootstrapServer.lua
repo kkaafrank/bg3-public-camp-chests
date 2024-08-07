@@ -1,3 +1,2 @@
-Ext.Require("Server/MyFirstSEScript.lua")
-
-print("Hello World!")
+Ext.Require("globals.lua")
+Ext.Require("Server/SomeLuaScript.lua")
