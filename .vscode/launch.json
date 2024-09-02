@@ -7,11 +7,11 @@
         {
             // "preLaunchTask": "bg3Continue",
             // "postDebugTask": "bg3Kill",
-            // "internalConsoleOptions": "openOnSessionStart",
+            "internalConsoleOptions": "openOnSessionStart",
             "type": "bg3lua",
             "request": "launch",
             "name": "BG3 Script Extender Lua Debug",
-            "program": "F:\\BG3 Modding\\LuaDebugAdapter\\LuaDebugger.exe",
+            "program": "F:\\BG3 Modding\\BG3_Lua_Debug_Adapter\\LuaDebugger.exe",
             "backendHost": "127.0.0.1",
             "backendPort": 9998,
             "dbgOptions": {
