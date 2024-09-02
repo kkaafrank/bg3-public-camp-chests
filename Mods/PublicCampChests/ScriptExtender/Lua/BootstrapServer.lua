@@ -1,2 +1,4 @@
 Ext.Require("globals.lua")
-Ext.Require("Server/SomeLuaScript.lua")
+Ext.Require("Server/AcceptCampChestRequest.lua")
+
+print("hello world")
