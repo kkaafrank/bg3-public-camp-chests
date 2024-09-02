@@ -1,0 +1,5 @@
+{
+    "RequiredVersion": 15,
+    "ModTable": "PUBLIC_CAMP_CHESTS",
+    "FeatureFlags": ["Lua"]
+}
